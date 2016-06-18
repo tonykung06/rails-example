@@ -1,0 +1,47 @@
+/* line 5, C:/Users/Administrator/Documents/GitHub/rails-example/app/assets/stylesheets/home.scss */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* line 10, C:/Users/Administrator/Documents/GitHub/rails-example/app/assets/stylesheets/home.scss */
+.boxes .media {
+  border: thin solid #ddd;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: #eee;
+  position: relative;
+}
+/* line 16, C:/Users/Administrator/Documents/GitHub/rails-example/app/assets/stylesheets/home.scss */
+.boxes .media:hover {
+  cursor: pointer;
+  background: #ddd;
+}
+/* line 20, C:/Users/Administrator/Documents/GitHub/rails-example/app/assets/stylesheets/home.scss */
+.boxes .media .time {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  color: #666;
+}
+/* line 26, C:/Users/Administrator/Documents/GitHub/rails-example/app/assets/stylesheets/home.scss */
+.boxes .media .view-answer {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
