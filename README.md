@@ -1,3 +1,5 @@
+https://tony-rails-example.herokuapp.com/
+
 ###Run this app in production
 - `rake db:migrate RAILS_ENV=production`
 - `rake secret` to generate a random secret
