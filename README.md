@@ -27,9 +27,12 @@ https://tony-rails-example.herokuapp.com/
 - `rails s`
 - `rails c`
 - `rails new rails-example`
+- `rails g model Manager name:string`
+- `rails destroy model Manager name:string`
 - `rails g controller home index`
 - `rails g resource answer question_id:integer email:string body:text`
 - `rails g mailer main_mailer notify_question_author`
+- `rake -T`
 - `rake db:migrate RAILS_ENV=test`
 - `rake test`
 - `rake secret`
